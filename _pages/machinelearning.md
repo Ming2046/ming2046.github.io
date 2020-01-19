@@ -2,7 +2,7 @@
 layout: archive
 title: "Machine Learning"
 permalink: /machine-learning/
-excerpt: "I am currently working with Tetra Tech"
+excerpt: "Machine Leaning"
 author_profile: true
 ---
 
