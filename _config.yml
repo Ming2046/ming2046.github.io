@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Minxing Si"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "Data Science"
   location         : "Calgary Canada"
   email            :
