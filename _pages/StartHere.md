@@ -3,6 +3,7 @@ layout: single
 title: ""
 permalink: /start/
 author_profile: true
+read_time: false
 ---
 
 ## About
