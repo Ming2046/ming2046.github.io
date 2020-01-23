@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Start Here"
-    url: /start/
+    url: /
   - title: "Machine Learning"
     url: /machine-learning/
   - title: "Sample Posts"
