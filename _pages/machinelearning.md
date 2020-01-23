@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Machine Learning"
 permalink: /machine-learning/
 excerpt: "Machine Leaning"
