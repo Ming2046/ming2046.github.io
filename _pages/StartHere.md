@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-permalink: /
+permalink: /start/
 author_profile: true
 read_time: false
 ---
