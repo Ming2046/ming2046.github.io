@@ -1,14 +1,14 @@
 ---
 layout: single
 title: ""
-permalink: /start/
+permalink: /
 author_profile: true
 read_time: false
 ---
 
 ## About
 
-test url6 
+test url1
 The bread and butter of any theme. Below you’ll find the layouts included with Minimal Mistakes, what they look like and the type of content they’ve been built for.
 
 ## Project
