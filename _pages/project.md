@@ -1,12 +1,10 @@
 ---
-layout: single
-title: ""
-permalink: /
-author_profile: true
-read_time: false
+title: "Project"
+layout: collection
+permalink: /project/
+collection: project
 ---
 
-## About
 
 test url1
 The bread and butter of any theme. Below you’ll find the layouts included with Minimal Mistakes, what they look like and the type of content they’ve been built for.

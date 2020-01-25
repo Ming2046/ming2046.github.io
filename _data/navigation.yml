@@ -2,8 +2,8 @@
 main:
   - title: "Data Visualization"
     url: /visualization/
-  - title: "Start Here"
-    url: /start/
+  - title: "Project"
+    url: /project/
   - title: "Machine Learning"
     url: /machine-learning/
   - title: "Sample Posts"
