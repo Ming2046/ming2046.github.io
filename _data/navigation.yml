@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  - title: "Data Visualization"
+    url: /visualization/
   - title: "Start Here"
     url: /start/
   - title: "Machine Learning"
