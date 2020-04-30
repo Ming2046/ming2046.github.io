@@ -8,18 +8,15 @@ read_time: false
 
 ## About
 
-test url2  
-The bread and butter of any theme. Below you’ll find the layouts included with Minimal Mistakes, what they look like and the type of content they’ve been built for.
+I am learning data science and machine learning. 
 
-## Project
+## Publication
 
-On this blog you content related to:
+I published these papers
 
-- Data science
-- Artificial intelligence, machine learning, and deep learning
-- Productivity hacks, time management, and leadership
+- Evaluation and calibration of a low-cost particle sensor in ambient conditions using machine-learning methods [**Atmospheric Measurement Techniques**] <https://www.atmos-meas-tech.net/13/1693/2020/>
+- Development of Predictive Emissions Monitoring System Using Open Source Machine Learning Library – Keras: A Case Study on a Cogeneration Unit. [**IEEE Access**]<https://ieeexplore.ieee.org/document/8771122>
+- Energy efficiency assessment by process heating assessment and survey tool (PHAST) and feasibility analysis of waste heat recovery in the reheat furnace at a steel company. [**Renewable and Sustainable Energy Reviews**]<https://www.sciencedirect.com/science/article/abs/pii/S1364032111000839>
+- Strategic analysis of energy efficiency projects: Case study of a steel mill in Manitoba. [**Renewable and Sustainable Energy Reviews**]<https://www.sciencedirect.com/science/article/abs/pii/S1364032114005929>
 
 
-## Notable Features
-
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies — styling is purposely minimalistic to be enhanced and customized by you :smile
