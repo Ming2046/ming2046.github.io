@@ -6,6 +6,11 @@ author_profile: true
 read_time: false
 ---
 
+> Our actions may be impeded, but there can be no impeding our intentions or dispositions. Because we can accommodate and adapt. The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way 
+
+<div align="right"><cite>Marcus Aurelius</cite></div>
+
+
 ## About
 
 I am learning data science and machine learning. 
