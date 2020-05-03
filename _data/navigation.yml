@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "Data Visualization"
-    url: /visualization/
   - title: "Project"
     url: /project/
   - title: "Machine Learning"
     url: /machine-learning/
-  - title: "Sample Posts"
+  - title: "Posts"
     url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Collections"
+    url: /collection-archive/
+  #- title: "Data Visualization"
+  #    url: /visualization/
   # - title: "Sitemap"
   #   url: /sitemap/
