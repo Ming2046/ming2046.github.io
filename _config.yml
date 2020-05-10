@@ -330,7 +330,7 @@ defaults:
       author_profile: true
       share: # true
       comments: # true
-# _book
+  # _book
   - scope:
       path: ""
       type: book
@@ -339,7 +339,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-# _portfolio
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
