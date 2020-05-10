@@ -9,4 +9,4 @@ Books
 
 what book?
 
-WHy is it not linked?
+Why is it not linked?
