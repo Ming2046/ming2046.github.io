@@ -285,7 +285,7 @@ collections:
   visualization:
     output: true
     permalink: /:collection/:path/
-  project:
+  book:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -330,10 +330,10 @@ defaults:
       author_profile: true
       share: # true
       comments: # true
-  # _project
+  # _book
   - scope:
       path: ""
-      type: project
+      type: book
     values:
       layout: single
       author_profile: true
