@@ -337,8 +337,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: # true
+      comment: # true
   # _portfolio
   - scope:
       path: ""
