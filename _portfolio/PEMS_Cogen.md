@@ -13,7 +13,3 @@ The study provides an overview of Predictive Emissions Monitoring System's (PEMS
 
 Check out the full paper at [*IEEE Access*](https://ieeexplore.ieee.org/document/8771122) <https://ieeexplore.ieee.org/document/8771122>
 
-
-``` r
-x = y +1 
-```
