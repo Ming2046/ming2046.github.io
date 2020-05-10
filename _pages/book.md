@@ -7,6 +7,4 @@ collection: book
 ---
 Books
 
-what book?
-
-Why is it not linked?
+Linkedin 
