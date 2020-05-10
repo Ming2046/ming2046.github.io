@@ -1,8 +1,8 @@
 ---
-title: "Project"
+title: "Book"
 layout: collection
-permalink: /project/
-collection: project
+permalink: /book/
+collection: book
 ---
 
 
