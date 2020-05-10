@@ -1,10 +1,10 @@
 ---
-title: "Book"
+title: Book
 layout: collection
 permalink: /book/
 collection: book
+# entries_layout: grid
+classes: wide
 ---
-
-
-I have done these projects. 
+Books
 
