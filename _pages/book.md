@@ -1,10 +1,9 @@
 ---
-title: Book
-layout: collection
+layout: single
+title: "Book"
 permalink: /book/
+author_profile: true
 collection: book
-# entries_layout: grid
-classes: wide
 ---
 Books
 
