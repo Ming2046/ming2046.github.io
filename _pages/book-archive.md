@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Book
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /book/
+collection: book
 entries_layout: grid
 classes: wide
 ---
