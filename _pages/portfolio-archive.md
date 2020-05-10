@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-layout: signle
+layout: collection
 permalink: /portfolio/
 collection: portfolio
 # entries_layout: grid
@@ -9,5 +9,5 @@ classes: wide
 
 I have done these projects. 
 
-what happend2
+tyr this time. 
 

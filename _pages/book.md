@@ -1,11 +1,10 @@
 ---
-layout: single
-title: "Book"
+title: Book
 layout: collection
 permalink: /book/
-author_profile: true
 collection: book
+entries_layout: grid
+classes: wide
 ---
 Books
-
-Linkedin 
+How to link book
