@@ -29,15 +29,15 @@ $$ c_{d(12\% CO_2)} = c_w \times \frac{12}{\%CO_{2w}} =c_d \times \frac{12}{\%CO
 
 The concentration can be determined using either a wet-basis or a dry-basis concentration value as long as the emissions and CO<sub>2</sub> are both measured on a wet basis or on a dry basis.
 
-## O<sub>2</sub>(Corrected to 6% O<sub>2</sub>)
+## O<sub>2</sub>(6% O<sub>2</sub>)
 
-$$ c_{d(corrected to 6\% O_2)} = c_d \times \frac{20.9 - 6.0}{20.9 - \%O_{2d}} $$
+$$ c_{d(6\% O_2)} = c_d \times \frac{20.9 - 6.0}{20.9 - \%O_{2d}} $$
 
 ## Excess Air Correction 
 
 Excess Air (EA) corrects to 50%.
 
-$$ c_{d(corrected to 50\% EA)} = c_d \times \frac{100+\%EA}{150} $$
+$$ c_{d(50\% EA)} = c_d \times \frac{100+\%EA}{150} $$
 
 $$ \%EA = \frac{\%O_2 - 0.5\%CO}{0.266\%N_2 - \%O_2 + 0.5\%CO} $$ 
 
