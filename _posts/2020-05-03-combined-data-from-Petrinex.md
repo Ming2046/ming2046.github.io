@@ -1,7 +1,9 @@
 ---
 title: "Combined Monthly Petrinex Data into One File"
 classes: wide
-excerpt: "Petrinex Data "
+excerpt: "Petrinex Data"
+categories: 
+  - Data Science
 tags:
   - Petrinex
   - Data Science
