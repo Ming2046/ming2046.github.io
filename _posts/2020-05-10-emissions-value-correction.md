@@ -9,7 +9,7 @@ tags:
 mathjax: true
 ---
 
-The equations are taken from [Continuous Emission Monitoring] by James A. Jahnke (April 3, 2000) (https://www.amazon.ca/Continuous-Emission-Monitoring-James-Jahnke/dp/0471292273)
+The equations are taken from [Continuous Emission Monitoring](https://www.amazon.ca/Continuous-Emission-Monitoring-James-Jahnke/dp/0471292273) by James A. Jahnke (April 3, 2000).
 
 ## Correct wet-basis concentrations to dry-basis concentrations
 
