@@ -1,5 +1,5 @@
 ---
-title:  "Emissions Value Correction"
+title:  "Emission Value Correction"
 classes: wide
 excerpt: "Correct emissions values from a wet basis to a dry basis at 12% CO<sub>2</sub>, 6% O<sub>2</sub> or 50% excess air"
 categories: 
