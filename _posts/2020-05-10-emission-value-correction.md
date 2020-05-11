@@ -25,5 +25,5 @@ To correct a concentration value for dilution, emissions can be expressed in thr
 
 ## CO<sub>2</sub> correction
 
-$$ c_{d(12% CO<sub>2</sub>)} = c_w \times \frac{12}{%CO<sub>2w</sub>} $$
+$$ c_{d(12\% CO<sub>2</sub>)} = c_w \times \frac{12}{\%CO<sub>2w</sub>} $$
 
