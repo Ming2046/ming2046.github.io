@@ -22,21 +22,26 @@ files
 ```
 Note: 
 - macOS is sensitive to the letters \*\.csv or \*\.CSV. 
-- Windows does not differenitate csv or CSV.
+- Windows does not differentiate csv or CSV.
 
 
 
 Combine all monthly files into one file
 
 ```python
-df_all = pd.concat([pd.read_csv(f,low_memory=False) for f in glob.glob('*.CSV')],axis = 0,sort = True)
+df_all = pd.concat([pd.read_csv(f,low_memory=False) for f in glob.glob('*.CSV')],
+                    axis = 0,sort = True)
 df_all.head()
 ```
 
 
 ```python
-col_removal = ['ReportingFacilityProvinceState','ReportingFacilityLocation'
-'FacilityLegalSubdivision','FacilitySection','FacilityTownship','FacilityRange','FacilityMeridian','SubmissionDate','CCICode','ProrationProduct','ProrationFactor','FromToIDProvinceState']
+col_removal = 
+['ReportingFacilityProvinceState','ReportingFacilityLocation'
+'FacilityLegalSubdivision','FacilitySection','FacilityTownship',
+'FacilityRange','FacilityMeridian','SubmissionDate',
+'CCICode','ProrationProduct','ProrationFactor',
+'FromToIDProvinceState']
 df =df_all.drop(columns= col_removal)
 df.to_csv('Petrinex_2019.csv',index=False)
 ```
