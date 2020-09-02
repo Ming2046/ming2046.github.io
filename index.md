@@ -20,7 +20,8 @@ I am learning data science and machine learning.
 
 I published these papers
 
-1. Evaluation and calibration of a low-cost particle sensor in ambient conditions using machine-learning methods **Atmospheric Measurement Techniques** <https://www.atmos-meas-tech.net/13/1693/2020/>. [Download](./assets/files/AMT_Sensor.pdf)
-2. Development of Predictive Emissions Monitoring System Using Open Source Machine Learning Library – Keras: A Case Study on a Cogeneration Unit. **IEEE Access** <https://ieeexplore.ieee.org/document/8771122>. [Download](./assets/files/IEEE_PEMS.pdf)
-3. Energy efficiency assessment by process heating assessment and survey tool (PHAST) and feasibility analysis of waste heat recovery in the reheat furnace at a steel company. **Renewable and Sustainable Energy Reviews** <https://www.sciencedirect.com/science/article/abs/pii/S1364032111000839>
-4. Strategic analysis of energy efficiency projects: Case study of a steel mill in Manitoba. **Renewable and Sustainable Energy Reviews** <https://www.sciencedirect.com/science/article/abs/pii/S1364032114005929>
+1. Development of a predictive emissions model using a gradient boosting machine learning method.**Environmental Technology & Innovation** <https://www.sciencedirect.com/science/article/abs/pii/S2352186420313286>. [Download Preprint](./assets/files/PEMS_XGBoost_ETI.pdf)
+2. Evaluation and calibration of a low-cost particle sensor in ambient conditions using machine-learning methods **Atmospheric Measurement Techniques** <https://www.atmos-meas-tech.net/13/1693/2020/>. [Download](./assets/files/AMT_Sensor.pdf)
+3. Development of Predictive Emissions Monitoring System Using Open Source Machine Learning Library – Keras: A Case Study on a Cogeneration Unit. **IEEE Access** <https://ieeexplore.ieee.org/document/8771122>. [Download](./assets/files/IEEE_PEMS.pdf)
+4. Energy efficiency assessment by process heating assessment and survey tool (PHAST) and feasibility analysis of waste heat recovery in the reheat furnace at a steel company. **Renewable and Sustainable Energy Reviews** <https://www.sciencedirect.com/science/article/abs/pii/S1364032111000839>
+5. Strategic analysis of energy efficiency projects: Case study of a steel mill in Manitoba. **Renewable and Sustainable Energy Reviews** <https://www.sciencedirect.com/science/article/abs/pii/S1364032114005929>
