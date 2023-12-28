@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Project
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /project/
+collection: project
 classes: wide
 ---
 
